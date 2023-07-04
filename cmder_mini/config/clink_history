@@ -1,0 +1,7 @@
+|CTAG_1675823362_679431843_30376_0
+cd //
+cd ..
+php artisan migrate -fresh
+php artisan migrate:refresh
+|hp artisan serve
+php artisan serve
